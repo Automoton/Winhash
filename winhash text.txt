@@ -1,0 +1,9 @@
+Important Things:
+
+The address: 3Hj7AMrPiYMtCageSEYshjeWhTi3Ew65Nr
+
+Steps for schedule:
+1) Open task scheduler
+2) Import task
+3) Import winhash Autostart
+
